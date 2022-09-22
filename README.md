@@ -14,14 +14,5 @@ This is the second project of the Software Engineer program at Practicum by Yand
 ## Plan on improving the project
 
 - I think the content in the files are organized. If i could somehow arrange the files manually, instead of "Visual Studio Code's" alphebitical nature of organizing files, it would be further organized. Instead of the 'about.css' file being the first css file in the 'blocks' directory, having the header.css file at the beginning of the folder would make navigating files much easier.
-<<<<<<< HEAD
 
 - In the future, I will write notes next to recently learning code that seems complicated. This way I can review and improve my notes to hopefully solve that same problem again.
-=======
-- In the future, I will write notes next to recently learning code that seems complicated. This way I can review and improve my notes to hopefully solve that same problem again.
-
-git add . - adds all files
-git commit -m "commit message" -savesssss
-git push -pushes code up to github
-git status -changes
->>>>>>> aa8d4b3a233328b064f7848ddb42e25ee2d7102c
