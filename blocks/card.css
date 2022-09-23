@@ -1,7 +1,7 @@
 .card {
   max-width: 600px;
   flex-basis: 50%;
-  flex-direction: column;
+  box-sizing: border-box;
 }
 
 .card__title {
